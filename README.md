@@ -1,5 +1,3 @@
-### Explicación del Archivo README.md:
-
 - **Descripción**: Presenta el propósito de la herramienta.
 - **Idea**: Explica cómo el comando `ping` se utiliza para encontrar el MTU.
 - **Cómo Ejecutar**: Instrucciones para clonar el repositorio, instalar dependencias, y ejecutar el script.
